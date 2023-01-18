@@ -1,3 +1,3 @@
-# Stealth
+This is a simple Game with Unreal Engine using C++ and Blueprints.
 
-Developed with Unreal Engine 5
+Gameplay video: https://youtu.be/bodDy4Eye1Y
